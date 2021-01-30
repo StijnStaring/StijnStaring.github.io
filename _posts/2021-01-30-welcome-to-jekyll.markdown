@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ja Ja Papa, Stijn heeft dit gemaakt! :p"
 date:   2021-01-30 15:17:00 +0100
 categories: jekyll update
 ---
