@@ -16,8 +16,7 @@ resume_title:                   "Controls & AI Engineer"
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stijnstaring@hotmail.com"
 
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+32471178361"
+# used for the schema address itemprop in _layouts/resume.html
 resume_contact_address:         "Deurne, Belgium"
 
 resume_header_contact_info:     "Deurne, Belgium • stijnstaring@hotmail.com"
