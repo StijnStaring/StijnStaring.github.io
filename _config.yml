@@ -1,6 +1,6 @@
 # Site settings
 title: "Stijn Staring Resume"
-description: "CV of Stijn Staring, cyber-physical systems engineer working on embedded control software, model-based design and applied AI."
+description: "CV of Stijn Staring, controls engineer applying AI to control systems: embedded control software, model-based design and applied AI."
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Stijn Staring"
-resume_title:                   "Cyber-Physical Systems Engineer"
+resume_title:                   "Controls & AI Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stijnstaring@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+32471178361"
-resume_contact_address:         "Peer, Belgium"
+resume_contact_address:         "Deurne, Belgium"
 
-resume_header_contact_info:     "Peer, Belgium • stijnstaring@hotmail.com"
+resume_header_contact_info:     "Deurne, Belgium • stijnstaring@hotmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Engineer at the crossroads of mechanics, embedded control software and AI. Master of Mechanical Engineering and Master of Artificial Intelligence (KU Leuven), at Atlas Copco since 2021: from compressor control software in CODESYS, through model-based design in Simulink, to practical AI in engineering workflows today.</p><p>I do my best work in a dynamic team, taking ownership of concrete projects with tangible results, and prefer hands-on work over desk time. Always learning, including outside my own field.</p>"
+resume_header_intro: "<p>Controls engineer focused on applying AI to control systems. Master of Mechanical Engineering with a focus on control engineering, and Master of Artificial Intelligence (KU Leuven). At Atlas Copco since 2021: from compressor control software in CODESYS, through model-based design in Simulink, to practical AI for engineering teams today.</p><p>I do my best work in a dynamic team, taking ownership of concrete projects with tangible results, and prefer hands-on work over desk time. Always learning, including outside my own field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
