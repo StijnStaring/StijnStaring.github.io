@@ -13,12 +13,13 @@
     - position: Model-Based Engineering Researcher
       duration: 2024 &mdash; 2026
       summary: |
-        Research project on the feasibility of transforming CODESYS control code into a Simulink model, so that a digital twin can be created for better prototyping and testing of compressor functions.
+        Investigated the feasibility of transforming CODESYS control code into a Simulink model, so that a digital twin can be created for better prototyping and testing of compressor functions.
 
+        - Led the consultancy engagement with CNTRL Engineering, aligning internal goals with external expertise and reporting regularly to management
         - Worked on a proof of concept, applying model-based design in Simulink and Stateflow
         - Coordinated with hardware abstraction layer (HAL) software engineers and compressor product owners to agree on a shared way of working
         - Studied the technical background of the HAL integration and learned Rust
-        - Served as primary contact for the MathWorks consultancy project, aligning internal goals with external expertise and reporting regularly to management
+        - Outcome: study signed off, with a shift to an AI-based way of working built on text-based instead of visual models
 
     - position: Application Engineer
       duration: 2024
