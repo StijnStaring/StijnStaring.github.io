@@ -1,19 +1,57 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Jobs — one entry per company, newest role first
+- company: Atlas Copco
+  roles:
+    - position: AI Implementer
+      duration: 2026 &mdash; Present
+      summary: |
+        Member of a small team that has fully embraced AI and is responsible for keeping up with new AI developments.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+        - Set up practical AI use cases inside the company, funded by an R&D budget
+        - Make Atlas Copco's in-house expert knowledge accessible to AI
+        - Generate Rust and Python code for a hardware-in-the-loop framework for the Elektronikon® Mk5s and future Mk6 controllers
 
+    - position: Model-Based Engineering Researcher
+      duration: 2024 &mdash; 2026
+      summary: |
+        Research project on the feasibility of transforming CODESYS control code into a Simulink model, so that a digital twin can be created for better prototyping and testing of compressor functions.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+        - Worked on a proof of concept, applying model-based design in Simulink and Stateflow
+        - Coordinated with hardware abstraction layer (HAL) software engineers and compressor product owners to agree on a shared way of working
+        - Studied the technical background of the HAL integration and learned Rust
+        - Served as primary contact for the MathWorks consultancy project, aligning internal goals with external expertise and reporting regularly to management
+
+    - position: Application Engineer
+      duration: 2024
+      summary: |
+        Translated customer requirements into tailored technical solutions that met both performance and budget expectations.
+
+        - Estimated pricing for custom engineering projects
+        - Worked with sales teams to align technical and commercial goals
+        - Documented and presented technical proposals
+        - Provided technical support at the Italian Customer Center during a three-month exchange in Milan
+
+    - position: CODESYS Developer
+      duration: 2021 &mdash; 2024
+      summary: |
+        Member of the development team behind the Elektronikon® controller, the brain of Atlas Copco's industrial compressors. Developed compressor control functions in CODESYS that run in installations worldwide.
+
+        - Took a leading role in product developments such as the STC valve, the Nano VSD and a new LB compressor
+        - Performed functional analysis of customer specifications
+        - Applied sustainable coding practices and unit testing
+        - Improved processes and documentation across the software lifecycle
+        - Provided technical support to software and tooling users
+        - Presented technical updates to stakeholders in international, cross-functional teams
+
+- company: Siemens
+  roles:
+    - position: Master's Thesis
+      duration: Sep 2019 &mdash; Jul 2020
+      summary: |
+        Supported by the Advanced Driver Assistance research group in Leuven. Developed a feature-based inverse optimal control algorithm that learns a driver's personal experience of comfort during a lane change, captured in the weighting factors of a comfort objective function.
+
+- company: BASF
+  roles:
+    - position: Assistant Lead Piping Engineer (Internship)
+      duration: Aug 2019 &mdash; Sep 2019
+      summary: |
+        Five-week summer internship at the engineering department in Antwerp. Proposed piping solutions for minor safety and reliability modifications in the polyether polyols plant, substantiated with 3D models and isometric drawings. Solved an optimization problem for an annular pipe and collected data for a cost estimate.

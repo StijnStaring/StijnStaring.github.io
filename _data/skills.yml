@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Model-based design & control
+  description: MATLAB, Simulink, Stateflow, control system development, (inverse) optimal control
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Embedded software
+  description: CODESYS (IEC 61131-3), Rust, Python, hardware-in-the-loop frameworks, unit testing
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Artificial intelligence
+  description: Practical AI use cases, AI-assisted code generation, making company knowledge accessible to AI, deep learning (LSTM, Keras), machine learning
+
+- skill: Engineering & collaboration
+  description: Customer requirements analysis, cost estimation, software project management, stakeholder communication and management reporting, international cross-functional teams
+
+- skill: Languages
+  description: Dutch (native), English (professional working proficiency)

@@ -1,6 +1,6 @@
 # Site settings
 title: "Stijn Staring Resume"
-description: "A short introduction of my professional activities."
+description: "CV of Stijn Staring, cyber-physical systems engineer working on embedded control software, model-based design and applied AI."
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Stijn Staring"
-resume_title:                   "Mechanical / Embedded Software / AI Engineer"
+resume_title:                   "Cyber-Physical Systems Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stijnstaring@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+32471178361"
-resume_contact_address:         "Laarderweg 12, 3990 Peer"
+resume_contact_address:         "Peer, Belgium"
 
-resume_header_contact_info:     "Laarderweg 12, 3990 Peer • +32471178361 • stijnstaring@hotmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Peer, Belgium • stijnstaring@hotmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a motivated engineer who likes to question the state of art and looks at a problem through the eyes of an entrepreneur. Furthermore, I am especially interested in projects concerning durability and improving human conditions. </p>"
+resume_header_intro: "<p>Engineer at the crossroads of mechanics, embedded control software and AI. Master of Mechanical Engineering and Master of Artificial Intelligence (KU Leuven), at Atlas Copco since 2021: from compressor control software in CODESYS, through model-based design in Simulink, to practical AI in engineering workflows today.</p><p>I do my best work in a dynamic team, taking ownership of concrete projects with tangible results, and prefer hands-on work over desk time. Always learning, including outside my own field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,12 +35,12 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+# resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
+# resume_section_recognition:     true
+# resume_section_links:           true
 resume_section_associations:    true
-resume_section_interests:       true
+# resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

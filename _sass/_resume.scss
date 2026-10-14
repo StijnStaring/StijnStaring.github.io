@@ -171,7 +171,14 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy { margin: .75rem 0 0;
+    > :first-child { margin-top: 0; }
+    > :last-child { margin-bottom: 0; }
+    ul { padding-left: 1.25rem; margin: .5rem 0; }
+  }
+
+  // next role within the same company
+  .resume-item-copy + .resume-item-details { margin-top: 1.5rem; }
 }
 
 // footer styles
@@ -215,6 +222,7 @@
   .content-section {
     margin: 0 0 1rem;
     .resume-item { margin-bottom: 1rem; }
+    .resume-item-copy + .resume-item-details { margin-top: 1rem; }
     .resume-item-title {
       font-size: 16px;
       line-height: .7em;

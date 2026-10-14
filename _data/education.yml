@@ -1,13 +1,19 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Degrees
+- degree: Master of Artificial Intelligence
+  uni: KU Leuven
+  year: 2020 &mdash; 2021
+  summary: |
+    - Major: Engineering and Computer Science &bull; Grade: 74.50%
+    - Thesis: *Short-term forecasting of individual household electrical consumption* &mdash; 24-hour load forecasts using LSTM deep-learning models in Keras
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Mechanical Engineering (Burgerlijk ingenieur werktuigkunde)
+  uni: KU Leuven
+  year: 2015 &mdash; 2020
+  summary: |
+    - Major: Vehicle Technology, with a focus on control engineering &bull; Grade: 74.23%
+    - Thesis: *Learning comfort objective from lane change demonstrations for optimal control* (with Siemens)
+
+- uni: Additional Courses
+  summary: |
+    - **Academics for Companies (AFC) &mdash; Management for Engineers:** five classes taught by professionals from companies such as Deloitte and AKKA
+    - **BEST Summer Course &mdash; From Data to Knowledge:** ten-day course in Barcelona on machine learning, supercomputing and big data
